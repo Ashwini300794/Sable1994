@@ -20,6 +20,7 @@ public class Demo_AutoIT {
 		Thread.sleep(2000);
 		
 		Runtime.getRuntime().exec("C:\\Users\\SHRI\\Desktop\\AutoIT\\auto.abc.exe");
+		quite;
 		
 
 	}
